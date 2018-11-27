@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui" loadImage="GetImage">
+  <ribbon>
+    <tabs>
+      <tab id="tabNoteHighLight" label="代码高亮" keytip="L">
+        <group id="groupLanguage" label="语言">
+          <button id="buttonCSharp" label="C#" size="large" screentip="Entry C# Code" onAction="ShowCodeForm" tag="cs" keytip="C" image="CSharp.png"/>
+          <button id="buttonSQL" label="SQL" size="large" screentip="Entry SQL Code" onAction="ShowCodeForm" tag="sql" keytip="S"  image="SQL.png"/>
+          <button id="buttonCSS" label="CSS" size="large" screentip="Entry CSS Code" onAction="ShowCodeForm" tag="css" keytip="E"  image="CSS.png"/>
+          <button id="buttonJS" label="JS" size="large" screentip="Entry JS Code" onAction="ShowCodeForm" tag="js" keytip="J"  image="JS.png"/>
+          <button id="buttonHTML" label="HTML" size="large" screentip="Entry HTML Code" onAction="ShowCodeForm" tag="html" keytip="H"  image="HTML.png"/>
+          <button id="buttonXML" label="XML" size="large" screentip="Entry XML Code" onAction="ShowCodeForm" tag="xml" keytip="X"  image="XML.png"/>
+          <button id="buttonJAVA" label="JAVA" size="large" screentip="Entry JAVA Code" onAction="ShowCodeForm" tag="java" keytip="V"  image="JAVA.png"/>
+          <button id="buttonPHP" label="PHP" size="large" screentip="Entry PHP Code" onAction="ShowCodeForm" tag="php" keytip="P"  image="PHP.png"/>
+          <button id="buttonPerl" label="Perl" size="large" screentip="Entry Perl Code" onAction="ShowCodeForm" tag="perl" keytip="B"  image="Perl.png"/>
+          <button id="buttonPython" label="Python" size="large" screentip="Entry Python Code" onAction="ShowCodeForm" tag="py" keytip="A"  image="Python.png"/>
+          <button id="buttonRuby" label="Ruby" size="large" screentip="Entry Ruby Code" onAction="ShowCodeForm" tag="ruby" keytip="R"  image="Ruby.png"/>
+          <button id="buttonCpp" label="C++" size="large" screentip="Entry C++ Code" onAction="ShowCodeForm" tag="c" keytip="D"  image="CPP.png"/>
+        </group>
+      </tab>
+    </tabs>
+  </ribbon>
+</customUI>

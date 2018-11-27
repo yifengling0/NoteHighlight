@@ -1,0 +1,5 @@
+D:\Repository\SVN\NoteHighlight\NoteHighLightAddins\Helper\bin\Debug\Helper.dll
+D:\Repository\SVN\NoteHighlight\NoteHighLightAddins\Helper\bin\Debug\Helper.pdb
+D:\Repository\SVN\NoteHighlight\NoteHighLightAddins\Helper\obj\Debug\Helper.dll
+D:\Repository\SVN\NoteHighlight\NoteHighLightAddins\Helper\obj\Debug\Helper.pdb
+D:\Repository\SVN\NoteHighlight\NoteHighLightAddins\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache

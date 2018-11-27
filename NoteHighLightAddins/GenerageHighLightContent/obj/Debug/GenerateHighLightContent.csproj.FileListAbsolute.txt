@@ -1,0 +1,8 @@
+D:\Repository\SVN\NoteHighlight\NoteHighLightAddins\GenerageHighLightContent\bin\Debug\GenerateHighLightContent.dll.config
+D:\Repository\SVN\NoteHighlight\NoteHighLightAddins\GenerageHighLightContent\bin\Debug\GenerateHighLightContent.dll
+D:\Repository\SVN\NoteHighlight\NoteHighLightAddins\GenerageHighLightContent\bin\Debug\GenerateHighLightContent.pdb
+D:\Repository\SVN\NoteHighlight\NoteHighLightAddins\GenerageHighLightContent\bin\Debug\Helper.dll
+D:\Repository\SVN\NoteHighlight\NoteHighLightAddins\GenerageHighLightContent\bin\Debug\Helper.pdb
+D:\Repository\SVN\NoteHighlight\NoteHighLightAddins\GenerageHighLightContent\obj\Debug\GenerateHighLightContent.csprojResolveAssemblyReference.cache
+D:\Repository\SVN\NoteHighlight\NoteHighLightAddins\GenerageHighLightContent\obj\Debug\GenerateHighLightContent.dll
+D:\Repository\SVN\NoteHighlight\NoteHighLightAddins\GenerageHighLightContent\obj\Debug\GenerateHighLightContent.pdb
